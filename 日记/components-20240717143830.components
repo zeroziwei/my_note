@@ -1,0 +1,67 @@
+{
+  "components": [
+    {
+      "id": "26c9e48e-fb74-4252-8a23-3e5750fc7dc2",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-07-17T06:38:30.698Z",
+      "updateAt": "2024-07-17T06:38:30.698Z",
+      "components": [
+        {
+          "componentId": "1cc175bd-396b-41b8-a79e-16c6e49e39b8"
+        },
+        {
+          "componentId": "e218ee54-22db-4403-b775-ecec3f1f062a"
+        }
+      ],
+      "layoutType": "column"
+    },
+    {
+      "id": "1cc175bd-396b-41b8-a79e-16c6e49e39b8",
+      "type": "dailyCheck",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2024-07-17T06:38:49.272Z",
+      "updateAt": "2024-07-17T06:38:49.273Z",
+      "tasks": [
+        {
+          "id": "01fec8f6-43a7-4e04-9a81-caff1a5bd398",
+          "name": "锻炼",
+          "options": {}
+        }
+      ],
+      "dataRecordType": "journalProperty",
+      "folder": "components/daily-check",
+      "title": "锻炼"
+    },
+    {
+      "id": "e218ee54-22db-4403-b775-ecec3f1f062a",
+      "type": "dailyCheck",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-07-17T06:40:11.756Z",
+      "updateAt": "2024-07-17T06:40:11.757Z",
+      "tasks": [
+        {
+          "id": "4482a061-63f7-486a-aafb-bec9a71b8d71",
+          "name": "anki",
+          "options": {}
+        }
+      ],
+      "dataRecordType": "journalProperty",
+      "folder": "components/daily-check",
+      "title": " 复习"
+    }
+  ],
+  "rootComponentId": "26c9e48e-fb74-4252-8a23-3e5750fc7dc2"
+}

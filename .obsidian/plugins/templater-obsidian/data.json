@@ -1,0 +1,51 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Excalidraw/Templater",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "linux",
+      "template": "Excalidraw/Templater/templator for notes.md"
+    },
+    {
+      "folder": "os",
+      "template": "Excalidraw/Templater/templator for notes.md"
+    },
+    {
+      "folder": "sicp",
+      "template": "Excalidraw/Templater/templator for notes.md"
+    },
+    {
+      "folder": "software",
+      "template": "Excalidraw/Templater/templator for notes.md"
+    },
+    {
+      "folder": "网络",
+      "template": "Excalidraw/Templater/templator for notes.md"
+    },
+    {
+      "folder": "身体",
+      "template": "Excalidraw/Templater/templator for notes.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

@@ -1,0 +1,40 @@
+{
+  "components": [
+    {
+      "id": "984642bb-8758-4980-b65e-2e46bc7caaea",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-07-17T07:50:52.613Z",
+      "updateAt": "2024-07-17T07:50:52.613Z",
+      "components": [
+        {
+          "componentId": "61f0ce5a-a2d9-4e22-ad52-216e96b22ca3"
+        }
+      ],
+      "layoutType": "column"
+    },
+    {
+      "id": "61f0ce5a-a2d9-4e22-ad52-216e96b22ca3",
+      "type": "dataview",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2024-07-17T07:50:56.846Z",
+      "updateAt": "2024-07-17T07:50:56.846Z",
+      "query": "table\nfile.folder as \"文件夹\",\nfile.mtime as 修改时间,\nprogress/100 as 进度\nfrom #doing\nsort progress",
+      "queryType": "dataview",
+      "maxHeight": 306,
+      "dynamicParamComponents": [],
+      "title": "待完成的笔记",
+      "backgroundColor": "#ecececff",
+      "fontColor": "#493a3aff"
+    }
+  ],
+  "rootComponentId": "984642bb-8758-4980-b65e-2e46bc7caaea"
+}

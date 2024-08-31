@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "0dfeaa824dba94a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aacd8b404b3a8cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc4ecf515b13da00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/连接到github 仓库.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdb1d5234ce4631b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/django.draw.md"
+              }
+            }
+          },
+          {
+            "id": "bda39c7a738cffce",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/mysql.draw.md"
+              }
+            }
+          },
+          {
+            "id": "27080eab5b1229f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "input/1. 线程的概念.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b9d144f33027cf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "385b50bdb94e8ab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3787f0aefc1836d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3114caab9c14cdd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b215b41d9910b10e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5004348754883
+  },
+  "right": {
+    "id": "5b08ae78246c56c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d046cc31d665c61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f491d6cbc72564b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日记/连接到github 仓库.md"
+              }
+            }
+          },
+          {
+            "id": "5b90ae5b9f7a3895",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bf2723d7d794120",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/连接到github 仓库.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "daf6266fb421b5a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c80db2629b9ff01f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "3e07d093c1d68e64",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 532.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-excalidraw-plugin-ymjr:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "header-enhancer:Header Enhancer": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "dc4ecf515b13da00",
+  "lastOpenFiles": [
+    "日记/2024-08-27.md",
+    "日记/连接到github 仓库.md",
+    "日记/2024-08-23.md",
+    "sicp/面试.md",
+    "sicp/django.md",
+    "sicp/django 静态文件.md",
+    "sicp/django测试.md",
+    "sicp/django 模板.md",
+    "Excalidraw/django.draw.md",
+    "attatchments/django.draw_image_20240823131420_447.png",
+    "attatchments/django.draw_image_20240823131405_446.png",
+    "attatchments/django.draw_image_20240823131319_397.png",
+    "attatchments/django.draw_image_20240823131204_383.png",
+    "attatchments/django.draw_image_20240823085134_090.png",
+    "attatchments/django.draw_image_20240823085103_062.png",
+    "attatchments/django.draw_image_20240823083902_036.png",
+    "attatchments/django.draw_image_20240823083832_025.png",
+    "attatchments/django.draw_image_20240823083617_013.png",
+    "attatchments/django.draw_image_20240823083215_989.png",
+    "Excalidraw/Drawing 2024-07-03 02.28.22.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-20 15.10.47.excalidraw.md",
+    "Excalidraw/mysql.draw.md",
+    "sicp/django 视图.md",
+    "sicp/django管理.md",
+    "linux/linux.md",
+    "日记/fish.md",
+    "日记/2024-08-22.md",
+    "日记/django项目.md",
+    "sicp/django 模型.md",
+    "sicp/ORM.md",
+    "sicp/python3 自省函数.md",
+    "sicp/django 数据库.md",
+    "sicp/django 配置mysql.md",
+    "sicp/django 路由.md",
+    "sicp/djanog 创建应用.md",
+    "sicp/django 创建项目.md",
+    "input/4. 进程间通信.md.crdownload",
+    "input/3. 进程控制.md.crdownload",
+    "input/1. 引言.md.crdownload",
+    "算法",
+    "input/计算机系统基础.pdf",
+    "input",
+    "c",
+    "riscv",
+    "日记/打工人不熬夜【青春版】.components",
+    "日记/components-20240717155052.components"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "showOnStatusBar": true,
+  "isAutoDetectHeaderLevel": false,
+  "startHeaderLevel": 2,
+  "maxHeaderLevel": 6,
+  "isAutoNumbering": true,
+  "isUseYaml": false,
+  "autoNumberingStartNumber": "1",
+  "autoNumberingSeparator": ".",
+  "autoNumberingHeaderSeparator": "\t",
+  "isSeparateTitleFont": true,
+  "titleFontFamily": "inherit",
+  "titleFontSize": "inherit"
+}

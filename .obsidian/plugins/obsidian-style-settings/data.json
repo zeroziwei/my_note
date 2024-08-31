@@ -1,0 +1,9 @@
+{
+  "minimal-style@@image-blend-light": true,
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@minimal-code-scroll": true,
+  "minimal-style@@code-normal@@light": "#000000",
+  "minimal-style@@code-normal@@dark": "#AEE532",
+  "minimal-style@@code-background@@dark": "#D3DA66",
+  "minimal-style@@code-background@@light": "#A4E5D2"
+}

@@ -1,0 +1,13 @@
+- 不可变数据类型
+	- 基本数据类型 
+		- int 
+		- float 
+		- str 
+		- bool
+	- tuple
+	- frozenset
+- 可变数据类型
+	- list 
+	- dict
+	- set 
+	- bytearray

@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📑",
+      "🔖"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "software/software.md": "🔖",
+  "linux/linux.md": "🔖",
+  "os/OS.md": "🔖",
+  "网络/网络.md": "🔖",
+  "身体/身体.md": "🔖",
+  "sicp/sicp.md": "🔖",
+  "sicp/python3.md": "🔖",
+  "riscv/程序的编译，链接和执行.md": "🔖",
+  "os/计算机系统基础.md": "🔖"
+}
