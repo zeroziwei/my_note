@@ -22,5 +22,6 @@
   "obsidian-to-anki-plugin",
   "components",
   "templater-obsidian",
-  "image-converter"
+  "image-converter",
+  "editor-width-slider"
 ]

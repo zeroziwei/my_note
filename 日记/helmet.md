@@ -19,3 +19,7 @@ Namespace(config='configs/cite.yaml', tag='eval', model_name_or_path='gpt2', use
 [[helmet model.generator 的output]]
 
 [[helmet data 的值]]
+
+
+
+[[helmet collect_result]]

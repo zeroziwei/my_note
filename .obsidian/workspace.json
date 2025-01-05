@@ -4,53 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "8aacd8b404b3a8cb",
+        "id": "2f4a28f382afbab7",
         "type": "tabs",
         "children": [
           {
-            "id": "dc4ecf515b13da00",
+            "id": "ba1077ee45b0687d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sicp/fastapi.md",
+                "file": "日记/何谓比较文学.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "何谓比较文学"
             }
           },
           {
-            "id": "fdb1d5234ce4631b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/django.draw.md"
-              }
-            }
-          },
-          {
-            "id": "bda39c7a738cffce",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/mysql.draw.md"
-              }
-            }
-          },
-          {
-            "id": "27080eab5b1229f0",
+            "id": "bb78c6f25c283eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "input/1. 线程的概念.md",
+                "file": "sicp/yield from.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "yield from"
+            }
+          },
+          {
+            "id": "4b88c15c72a25cf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sicp/生成器和迭代器的区别.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "生成器和迭代器的区别"
             }
           }
         ]
@@ -73,7 +72,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -82,13 +83,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#important",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -96,14 +99,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5004348754883
+    "width": 200
   },
   "right": {
     "id": "5b08ae78246c56c1",
@@ -119,8 +124,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sicp/fastapi.md"
-              }
+                "file": "software/vim.md"
+              },
+              "icon": "lucide-list",
+              "title": "vim 的大纲"
             }
           },
           {
@@ -128,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
-              "state": {}
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
             }
           },
           {
@@ -137,10 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sicp/fastapi.md",
+                "file": "software/vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "vim 的出链列表"
             }
           },
           {
@@ -151,7 +162,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -163,7 +176,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -171,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "timer-view",
-              "state": {}
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
             }
           }
         ],
@@ -179,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -202,34 +219,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc4ecf515b13da00",
+  "active": "ba1077ee45b0687d",
   "lastOpenFiles": [
-    "sicp/docker 源.md",
-    "sicp/fastapi.md",
-    "sicp/docker.md",
-    "网络/网络.md",
-    "网络/网络无法连接.md",
-    "sicp/docker 安装.md",
-    "日记/2024-09-01.md",
-    "网络/clash.md",
-    "sicp/泛型类.md",
+    "helmet/helmet rag.md",
+    "helmet/helmet.md",
+    "helmet/helmet  模型推理.md",
+    "算法/两数之和.md",
+    "日记/ollama.md",
+    "日记/2025-01-05.md",
+    "sicp/yield from.md",
+    "sicp/迭代器和生成器.md",
+    "sicp/生成器实现.md",
+    "sicp/生成器和迭代器的区别.md",
+    "sicp/EAFP.md",
+    "sicp/鹅子类型和鸭子类型.md",
     "sicp/python3.md",
-    "日记/vscode 快捷键.md",
+    "算法/学习.md",
+    "日记/2024-12-02.md",
+    "工作/helmet collect_result.md",
+    "法.md",
+    "linux/2\tFIFO 和 UNIX Domain Socket.md",
+    "linux/linux.md",
+    "linux/linux-0.12-master/docs/第3章-内核编程语言和环境/GNU Make 使用手册.pdf",
+    "linux/linux-0.12-master/docs/第1章-概述/第1章-概述.md",
+    "linux/1\t管道.md",
+    "linux/数据库.md",
+    "716.md",
+    "linux/index.md",
+    "日记/2025-01-01.md",
+    "helmet/eval.md",
+    "helmet",
+    "工作",
+    "attatchments/需要用到test_data的用例集-20241114003407508.webp",
+    "日记/helmet",
+    "attatchments/vim-20241029004949128.webp",
     "attatchments/vscode 快捷键-20240901102854914.webp",
-    "日记/vscode.md",
-    "input/Python - WSGI 和 ASGI 服务器 - 小菠萝测试笔记 - 博客园 (1).md",
-    "input/Python - WSGI 和 ASGI 服务器 - 小菠萝测试笔记 - 博客园.md",
-    "日记/vscode 配置.md",
-    "software/nvim.md",
-    "日记/连接到github 仓库.md",
-    "日记/2024-08-27.md",
-    "日记/2024-08-23.md",
-    "sicp/面试.md",
-    "sicp/django.md",
-    "sicp/django 静态文件.md",
-    "sicp/django测试.md",
-    "sicp/django 模板.md",
-    "Excalidraw/django.draw.md",
     "attatchments/django.draw_image_20240823131420_447.png",
     "attatchments/django.draw_image_20240823131405_446.png",
     "attatchments/django.draw_image_20240823131319_397.png",
@@ -237,18 +261,11 @@
     "attatchments/django.draw_image_20240823085134_090.png",
     "attatchments/django.draw_image_20240823085103_062.png",
     "attatchments/django.draw_image_20240823083902_036.png",
-    "attatchments/django.draw_image_20240823083832_025.png",
-    "attatchments/django.draw_image_20240823083617_013.png",
-    "Excalidraw/Drawing 2024-07-03 02.28.22.excalidraw.md",
     "input/4. 进程间通信.md.crdownload",
     "input/3. 进程控制.md.crdownload",
     "input/1. 引言.md.crdownload",
     "算法",
     "input/计算机系统基础.pdf",
-    "input",
-    "c",
-    "riscv",
-    "日记/打工人不熬夜【青春版】.components",
-    "日记/components-20240717155052.components"
+    "input"
   ]
 }

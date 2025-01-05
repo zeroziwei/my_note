@@ -1,9 +1,16 @@
-## outlink
+
+## 1	nvim 系统 
+
+- [[主题]]
+- [[折叠代码]]
+
+
+## 2	outlink
 
 [从零开始配置 Neovim(Nvim) - MartinLwx's Blog](https://martinlwx.github.io/zh-cn/config-neovim-from-scratch/)
 
 [ADkun/lvim-config-suggest: Suggestions of Neovim powered by LunarVim Nightly](https://github.com/ADkun/lvim-config-suggest)
-## install 
+## 3	install 
 
 I had the same issue, I first tried using the neovim PPA here: [https://launchpad.net/~neovim-ppa/+archive/ubuntu/stable](https://launchpad.net/%7Eneovim-ppa/+archive/ubuntu/stable)
 
@@ -87,7 +94,7 @@ Or just add it to $PATH if you prefer.
 
 
 
-## structure
+## 4	structure
 
 - where  the plugins  were installed 
 	/home/orange/.local/share/nvim/lazy/
@@ -101,7 +108,7 @@ Or just add it to $PATH if you prefer.
 - [ ] snippts
 
 
-## coc plugins 
+## 5	coc plugins 
 
 [zbirenbaum/neodim: Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more](https://github.com/zbirenbaum/neodim)
 

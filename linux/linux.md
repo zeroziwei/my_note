@@ -16,4 +16,6 @@ terminal:
 
 - [[apt]] | [[dpkg]] | [[applications]]
 
+- [[添加桌面图标]]
 
+- [[mathmatica]]

@@ -14,16 +14,22 @@
 
 [Interacting with the System and Managing Memory | Coursera](https://www.coursera.org/learn/interacting-system-managing-memory?specialization=c-programming)
 
+## 2	函数
 
 
-## 2	命令行解析
+- [[内联函数]]
+## 3	指针
+
+- [[void * ]]
+- [[函数指针]]
+## 4	命令行解析
 
 [[getopt]]
 [[sscanf()]]
 
 [[srand]]
 
-## 3	函数运行细节 
+## 5	函数运行细节 
 
 [Online C Compiler, Visual Debugger, and AI Tutor - Learn C programming by visualizing code](https://pythontutor.com/c.html#mode=display)
 
@@ -50,7 +56,7 @@
 [[指针]]
 
 
-## 4	指针
+## 6	指针
 
 [[8pointers.pdf]]
 
@@ -61,7 +67,7 @@
 - [ ]  to be done  📅 2024-04-17 
  ## 内存模型 
 
-### 4.1	数组放在哪里
+### 6.1	数组放在哪里
 
 [[ELF 文件]]
 
@@ -73,9 +79,9 @@
 [[static]]
 
 
-## 5	编译和链接
+## 7	编译和链接
 
-### 5.1	链接详情 
+### 7.1	链接详情 
 
 [[x86 汇编]]
 
@@ -88,17 +94,17 @@
 [[C 代码中嵌入汇编(ARM)_51CTO博客_arm汇编]]
 
 [Microsoft 宏汇编程序参考 | Microsoft Learn](https://learn.microsoft.com/zh-cn/cpp/assembler/masm/microsoft-macro-assembler-reference?view=msvc-170)
-## 6	进程 
+## 8	进程 
 
 
 [[C 进程|C 进程]]
 
 [[linux系统编程]]
-## 7	线程 
+## 9	线程 
 
 [[C 线程]]
 
-## 8	IO 
+## 10	IO 
 
 [[fprintf()]]
 

@@ -3,7 +3,7 @@ aliases:
   - 计算机操作系统
 source: https://blog.csdn.net/iwanderu/article/details/103934127
 ---
-## 计算机 
+## 1	计算机 
 
 >[!important] 破题
 >计算机就是 [[计算]] + [[机械]]
@@ -12,7 +12,7 @@ source: https://blog.csdn.net/iwanderu/article/details/103934127
 1. [[计算机系统基础]] 
 2. [[程序的编译，链接和执行]]
 
-## 操作系统 
+## 2	操作系统 
 
 >[!tldr] 破题
  进程是对CPU的抽象, 文件是对磁盘的抽象，地址空间是对内存的抽象 
@@ -22,7 +22,11 @@ source: https://blog.csdn.net/iwanderu/article/details/103934127
 
 [[操作系统的启动]]
 
-## 虚拟化
+## 3	操作系统建模
+
+[[mosaic]]
+
+## 4	虚拟化
 
 [[虚拟化思想]]
 
@@ -37,4 +41,3 @@ source: https://blog.csdn.net/iwanderu/article/details/103934127
 
 [[pa]]
 
-[[]]
